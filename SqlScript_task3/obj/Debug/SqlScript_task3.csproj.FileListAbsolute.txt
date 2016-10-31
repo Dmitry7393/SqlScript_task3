@@ -1,0 +1,27 @@
+c:\users\dmitry\documents\visual studio 2015\Projects\SqlScript_task3\SqlScript_task3\bin\Debug\SqlScript_task3.exe.config
+c:\users\dmitry\documents\visual studio 2015\Projects\SqlScript_task3\SqlScript_task3\bin\Debug\SqlScript_task3.exe
+c:\users\dmitry\documents\visual studio 2015\Projects\SqlScript_task3\SqlScript_task3\bin\Debug\SqlScript_task3.pdb
+c:\users\dmitry\documents\visual studio 2015\Projects\SqlScript_task3\SqlScript_task3\obj\Debug\SqlScript_task3.csprojResolveAssemblyReference.cache
+c:\users\dmitry\documents\visual studio 2015\Projects\SqlScript_task3\SqlScript_task3\obj\Debug\SqlScript_task3.Form1.resources
+c:\users\dmitry\documents\visual studio 2015\Projects\SqlScript_task3\SqlScript_task3\obj\Debug\SqlScript_task3.Properties.Resources.resources
+c:\users\dmitry\documents\visual studio 2015\Projects\SqlScript_task3\SqlScript_task3\obj\Debug\SqlScript_task3.csproj.GenerateResource.Cache
+c:\users\dmitry\documents\visual studio 2015\Projects\SqlScript_task3\SqlScript_task3\obj\Debug\SqlScript_task3.exe
+c:\users\dmitry\documents\visual studio 2015\Projects\SqlScript_task3\SqlScript_task3\obj\Debug\SqlScript_task3.pdb
+D:\SqlScript_task3\SqlScript_task3\bin\Debug\SqlScript_task3.exe.config
+D:\SqlScript_task3\SqlScript_task3\obj\Debug\SqlScript_task3.exe
+D:\SqlScript_task3\SqlScript_task3\obj\Debug\SqlScript_task3.pdb
+D:\SqlScript_task3\SqlScript_task3\bin\Debug\SqlScript_task3.exe
+D:\SqlScript_task3\SqlScript_task3\bin\Debug\SqlScript_task3.pdb
+D:\SqlScript_task3\SqlScript_task3\obj\Debug\SqlScript_task3.csprojResolveAssemblyReference.cache
+D:\SqlScript_task3\SqlScript_task3\obj\Debug\SqlScript_task3.Form1.resources
+D:\SqlScript_task3\SqlScript_task3\obj\Debug\SqlScript_task3.Properties.Resources.resources
+D:\SqlScript_task3\SqlScript_task3\obj\Debug\SqlScript_task3.csproj.GenerateResource.Cache
+D:\Projects\SqlScript_task3\SqlScript_task3\bin\Debug\SqlScript_task3.exe.config
+D:\Projects\SqlScript_task3\SqlScript_task3\obj\Debug\SqlScript_task3.exe
+D:\Projects\SqlScript_task3\SqlScript_task3\obj\Debug\SqlScript_task3.pdb
+D:\Projects\SqlScript_task3\SqlScript_task3\bin\Debug\SqlScript_task3.exe
+D:\Projects\SqlScript_task3\SqlScript_task3\bin\Debug\SqlScript_task3.pdb
+D:\Projects\SqlScript_task3\SqlScript_task3\obj\Debug\SqlScript_task3.csprojResolveAssemblyReference.cache
+D:\Projects\SqlScript_task3\SqlScript_task3\obj\Debug\SqlScript_task3.Form1.resources
+D:\Projects\SqlScript_task3\SqlScript_task3\obj\Debug\SqlScript_task3.Properties.Resources.resources
+D:\Projects\SqlScript_task3\SqlScript_task3\obj\Debug\SqlScript_task3.csproj.GenerateResource.Cache
