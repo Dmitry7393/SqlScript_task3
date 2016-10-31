@@ -125,16 +125,16 @@ namespace SqlScript_task3
             strCreateRequest[0] = "IF  NOT EXISTS (SELECT * FROM sys.objects " +
                                     "WHERE object_id = OBJECT_ID(N'[dbo].[Person]') AND type in (N'U')) CREATE TABLE Person" +
                                  "(PersonID INTEGER PRIMARY KEY," +
-                                 "First_name CHAR(50), Last_name CHAR(50), Birth_date CHAR(255), " +
+                                 "First_name CHAR(50) NOT NULL, Last_name CHAR(50) NOT NULL, Birth_date CHAR(255) NOT NULL, " +
                                  "Address CHAR(255))";
             strCreateRequest[1] = "IF  NOT EXISTS (SELECT * FROM sys.objects " +
                                    "WHERE object_id = OBJECT_ID(N'[dbo].[PhoneNumber]') AND type in (N'U')) CREATE TABLE PhoneNumber" +
                                 "(NumberID INTEGER PRIMARY KEY," +
-                                "PersonID INTEGER FOREIGN KEY REFERENCES Person(PersonID),  Phone_number CHAR(255))";
+                                "PersonID INTEGER FOREIGN KEY REFERENCES Person(PersonID) NOT NULL,  Phone_number CHAR(255) NOT NULL)";
             strCreateRequest[2] = "IF  NOT EXISTS (SELECT * FROM sys.objects " +
                                 "WHERE object_id = OBJECT_ID(N'[dbo].[Company]') AND type in (N'U')) CREATE TABLE Company" +
                                  "(CompanyID INTEGER PRIMARY KEY," +
-                                 "Name CHAR(255))";
+                                 "Name CHAR(255) NOT NULL)";
             strCreateRequest[3] = "IF  NOT EXISTS (SELECT * FROM sys.objects " +
                                "WHERE object_id = OBJECT_ID(N'[dbo].[BusinessAddress]') AND type in (N'U')) CREATE TABLE BusinessAddress" +
                                 "(AddressID INTEGER PRIMARY KEY," +
